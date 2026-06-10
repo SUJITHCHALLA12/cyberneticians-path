@@ -1,0 +1,11 @@
+{
+  "name": "cyberneticians-learning-os",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/validate-static.mjs",
+    "lint": "node scripts/validate-static.mjs",
+    "typecheck": "node scripts/validate-static.mjs"
+  }
+}
