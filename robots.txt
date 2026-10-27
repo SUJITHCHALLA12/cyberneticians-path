@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sujithchalla12.github.io/cyberneticians-path/sitemap.xml
